@@ -38,7 +38,6 @@
 
 [//]: # (![Yassir's GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=YassirJr&show_icons=true&theme=radical&#41;)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassirJr&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YassirJr&theme=radical)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yassir-jeraidi/)
