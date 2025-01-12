@@ -6,6 +6,7 @@
 💻 Passionate about **software development** and crafting impactful solutions.  
 🌐 Proficient in a wide range of frameworks and tools, with a love for **JavaScript**.  
 📚 Constantly learning and exploring new technologies.
+🔗 [My portfolio](https://yassir-jeraidi.vercel.app)
 
 ## 🛠️ Skills & Tools
 ### Frontend
