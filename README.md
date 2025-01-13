@@ -2,7 +2,6 @@
 <h3 align="center">🎓 Master's student in Distributed Systems and AI at ENSET Media.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassirjr" alt="yassirjr" /></a> </p>
 
 - 🔭 I’m currently studying at **ENSET Media.**
 
