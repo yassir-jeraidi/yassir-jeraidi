@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **ENSET Media.**
 
-- 🌱 I’m currently learning **AI/Distributed Systems**
+- 🌱 I’m currently learning **Distributed Systems**
 
 - 👯 I’m looking to collaborate on **Next.js/react.js projects**
 
