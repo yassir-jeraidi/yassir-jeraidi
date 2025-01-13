@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [medium.com/@yaceeer](medium.com/@yaceeer)
 
-- 💬 Ask me about **JS/PHP/JAVA and frameworks**
+- 💬 Ask me about **JS/PHP/JAVA and Frameworks**
 
 - 📄 Know about my experiences [https://yassir-jeraidi.vercel.app/cv-jy.pdf](https://yassir-jeraidi.vercel.app/cv-jy.pdf)
 
