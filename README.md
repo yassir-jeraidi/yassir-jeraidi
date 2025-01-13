@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Distributed Systems**
 
-- 👯 I’m looking to collaborate on **Next.js/react.js projects**
+- 👯 I’m looking to collaborate on **Node.js/Next.js/React.js projects**
 
 - 👨‍💻 All of my projects are available at [yassir-jeraidi.vercel.app](yassir-jeraidi.vercel.app)
 
