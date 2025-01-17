@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Node.js/Next.js/React.js projects**
 
-- 👨‍💻 All of my projects are available at [yassir-jeraidi.vercel.app](jeraidi.tech)
+- 👨‍💻 All of my projects are available at [jeraidi.tech](jeraidi.tech)
 
 - 📝 I regularly write articles on [medium.com/@yaceeer](medium.com/@yaceeer)
 
 - 💬 Ask me about **JS/PHP/JAVA and Frameworks**
 
-- 📄 Know about my experiences [https://yassir-jeraidi.vercel.app/cv-jy.pdf](https://yassir-jeraidi.vercel.app/cv-jy.pdf)
+- 📄 Know about my experiences [https://yassir-jeraidi.vercel.app/cv-jy.pdf](https://jeraidi.tech/cv-jy.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
