@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Node.js/Next.js/React.js projects**
 
-- 👨‍💻 All of my projects are available at [jeraidi.tech](jeraidi.tech)
+- 👨‍💻 All of my projects are available at [jeraidi.tech](https://jeraidi.tech)
 
 - 📝 I regularly write articles on [medium.com/@yaceeer](medium.com/@yaceeer)
 
