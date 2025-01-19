@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS/PHP/JAVA and Frameworks**
 
-- 📄 Know about my experiences [https://yassir-jeraidi.vercel.app/cv-jy.pdf](https://jeraidi.tech/cv-jy.pdf)
+- 📄 Know about my experiences [https://jeraidi.tech/cv-jy.pdf](https://jeraidi.tech/cv-jy.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
