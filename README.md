@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JS/PHP/JAVA and Frameworks**
 
-- 📄 Know about my experiences [https://jeraidi.tech](https://jeraidi.tech)
+- 📄 Know about my experiences [jeraidi.tech](https://jeraidi.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
