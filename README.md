@@ -55,3 +55,5 @@
 ![Electron.js](https://img.shields.io/badge/-...-4784F?logo=none&logoColor=gray&style=for-the-badge)
 
 
+You can view all my skills at: [jeraidi.tech/skills](https://jeraidi.tech/skills)
+
