@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jeraidi Yassir</h1>
-<h3 align="center">Javascript 💛</h3>
+<h3 align="center">Javascript leader 💛</h3>
 <h3 align="center">🎓 Master's student in Distributed Systems and AI at ENSET Mohammedia.</h3>
 
 
