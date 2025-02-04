@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently studying at **ENSET Media.**
+- 🔭 I’m currently studying at **ENSET Mohammedia.**
 
 - 🌱 I’m currently learning **Distributed Systems**
 
