@@ -112,6 +112,3 @@
   <p>📧 Contact: <a href="mailto:contact@jeraidi.tech">contact@jeraidi.tech</a></p>
   <p>💼 Portfolio: <a href="https://jeraidi.tech">jeraidi.tech</a></p>
 </div>
-
-
-i'm here 
