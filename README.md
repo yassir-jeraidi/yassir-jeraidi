@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Jeraidi Yassir</h1>
+<p align="center">So busy now</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=JavaScript+Leader+%F0%9F%92%9B;Full+Stack+Developer;Distributed+Systems+%26+AI+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
 </p>
