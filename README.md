@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 - 🔭 I'm currently studying at **ENSET Mohammedia**
-- 🌱 I'm currently learning **Distributed Systems, Microservices Architecture, and Cloud Computing**
+- 🌱 I'm currently learning **Distributed Systems, Microservices Architecture, and Cloud Computing ، AI**
 - 👯 I'm looking to collaborate on **Node.js/Next.js/React.js projects**
 - 🚀 Passionate about creating **scalable, efficient web applications**
 - 💻 Experienced in both **frontend and backend development**
