@@ -89,12 +89,6 @@
   <a href="https://medium.com/@yaceeer" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yaceeer" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your_twitter_handle" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your_twitter_handle" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/your_dev_to_handle" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="your_dev_to_handle" height="30" width="40" />
-  </a>
 </p>
 
 ---
