@@ -105,7 +105,7 @@
 
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/yaceeer">Yassir Jeraidi</a></p>
-  <p>📧 Contact: <a href="mailto:contact@jeraidi.tech">contact@jeraidi.tech</a></p>
+  <p>⭐️ From <a href="https://github.com/yassir-jeraidi">Yassir Jeraidi</a></p>
+  <p>📧 Contact: <a href="mailto:yassir.jeraidi@gmail.com">contact@jeraidi.tech</a></p>
   <p>💼 Portfolio: <a href="https://jeraidi.tech">jeraidi.tech</a></p>
 </div>
