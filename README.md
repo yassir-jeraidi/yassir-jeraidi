@@ -12,7 +12,7 @@
 - 👯 I'm looking to collaborate on **Node.js/Next.js/React.js projects**
 - 🚀 Passionate about creating **scalable, efficient web applications**
 - 💻 Experienced in both **frontend and backend development**
-- 👨‍💻 All of my projects are available at [jeraidi.tech/projects](https://jeraidi.tech/projects)
+- 👨‍💻 All of my projects are available at [jeraidi.tech](https://jeraidi.tech)
 - 📝 I regularly write articles on [medium.com/@yaceeer](https://medium.com/@yaceeer)
 - 💬 Ask me about **JavaScript, Node.js, React, PHP, Java, and their frameworks**
 - 📄 Know more about my experiences at [jeraidi.tech](https://jeraidi.tech)
@@ -75,7 +75,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-📚 **You can view all my skills at:** [jeraidi.tech/skills](https://jeraidi.tech/skills)
+📚 **You can view all my skills at:** [jeraidi.tech](https://jeraidi.tech)
 
 
 ## 🌍 Connect with me
