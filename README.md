@@ -12,10 +12,10 @@
 - 👯 I'm looking to collaborate on **Node.js/Next.js/React.js projects**
 - 🚀 Passionate about creating **scalable, efficient web applications**
 - 💻 Experienced in both **frontend and backend development**
-- 👨‍💻 All of my projects are available at [jeraidi.tech](https://jeraidi.tech)
+- 👨‍💻 All of my projects are available at [jeraidi.dev](https://jeraidi.dev)
 - 📝 I regularly write articles on [medium.com/@yaceeer](https://medium.com/@yaceeer)
 - 💬 Ask me about **JavaScript, Node.js, React, PHP, Java, and their frameworks**
-- 📄 Know more about my experiences at [jeraidi.tech](https://jeraidi.tech)
+- 📄 Know more about my experiences at [jeraidi.dev](https://jeraidi.dev)
 - ⚡ Fun fact: **I believe that clean code is not just a practice but a lifestyle**
 
 ## 📊 GitHub Stats
@@ -75,7 +75,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-📚 **You can view all my skills at:** [jeraidi.tech](https://jeraidi.tech)
+📚 **You can view all my skills at:** [jeraidi.dev](https://jeraidi.dev)
 
 
 ## 🌍 Connect with me
@@ -100,6 +100,6 @@
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/yassir-jeraidi">Yassir Jeraidi</a></p>
-  <p>📧 Contact: <a href="mailto:yassir.jeraidi@gmail.com">contact@jeraidi.tech</a></p>
-  <p>💼 Portfolio: <a href="https://jeraidi.tech">jeraidi.tech</a></p>
+  <p>📧 Contact: <a href="mailto:yassir.jeraidi@gmail.com">contact@jeraidi.dev</a></p>
+  <p>💼 Portfolio: <a href="https://jeraidi.dev">jeraidi.dev</a></p>
 </div>
