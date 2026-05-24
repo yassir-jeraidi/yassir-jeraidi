@@ -9,10 +9,8 @@ const yassir = {
   role:       "Master's Student @ ENSET Mohammedia",
   focus:      ["Distributed Systems", "Microservices", "AI Tooling", "Cloud"],
   building:   "Scalable full-stack apps with clean, intentional architecture",
-  stack:      ["TypeScript", "Node.js", "React", "Next.js", "TanStack", "NestJS"],
-  monorepo:   "pnpm workspaces + Turborepo",
-  database:   ["PostgreSQL", "Redis", "PlanetScale", "MongoDB"],
-  currently:  "Deep in AI-powered editor tooling (Plate.js + LLM integrations)",
+  stack:      ["JS/TS", "Node.js", "React/Next.js", "Angular", "Vue.js/Nuxt", "TanStack", "NestJS", "JAVA/Spring" , "PHP/Laravel"],
+  database:   ["PostgreSQL/Mysql", "Redis", "PlanetScale", "MongoDB"],
   funFact:    "Clean code isn't just a practice — it's a lifestyle 🌿",
 };
 ```
