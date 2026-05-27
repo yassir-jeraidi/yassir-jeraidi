@@ -108,7 +108,7 @@ const me = {
   <a href="https://jeraidi.dev">
     <img src="https://img.shields.io/badge/Portfolio-jeraidi.dev-ecf39e?style=for-the-badge&logo=vercel&logoColor=0d1f12&labelColor=0d1f12" />
   </a>
-  <a href="mailto:contact@jeraidi.dev">
-    <img src="https://img.shields.io/badge/Email-contact@jeraidi.dev-4a7c59?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:yassir.jeraidi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yassir.jeraidi@gmail.com-4a7c59?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
