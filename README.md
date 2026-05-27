@@ -65,7 +65,6 @@ const me = {
 
 ---
 
-## 📊 GitHub Stats
 
 <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassir-jeraidi&theme=dark&hide_border=true&background=0d1117&stroke=ecf39e&ring=4a7c59&fire=ecf39e&currStreakLabel=ecf39e&sideLabels=a8d672&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="48%" alt="GitHub Streak" />
@@ -73,7 +72,6 @@ const me = {
 
 ---
 
-## 🏆 GitHub Trophies
 
 <p >
   <img src="https://github-profile-trophy.vercel.app/?username=yassir-jeraidi&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
