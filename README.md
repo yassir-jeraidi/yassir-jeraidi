@@ -6,7 +6,7 @@
 
 ```ts
 const me = {
-  role:       "Master's Student @ENSET Mohammedia",
+  role:       "Master's Student @ENSET Mohammedia / Distributed Systems and Artificial Intelligence",
   focus:      ["Distributed Systems", "Microservices", "AI Tooling", "Cloud"],
   building:   "Scalable full-stack apps with clean, intentional architecture",
   stack:      ["JS/TS", "Node.js", "React/Next.js", "Angular", "Vue.js/Nuxt", "TanStack", "NestJS", "JAVA/Spring" , "PHP/Laravel"],
