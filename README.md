@@ -89,12 +89,6 @@ const me = {
 
 ---
 
-<!-- BLOG-POST-LIST:START -->
-> Check out my latest writing on [medium.com/@yaceeer](https://medium.com/@yaceeer)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <p >
   <a href="https://linkedin.com/in/yassir-jeraidi">
     <img src="https://img.shields.io/badge/LinkedIn-Yassir_Jeraidi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
