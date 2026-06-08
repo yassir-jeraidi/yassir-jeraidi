@@ -18,7 +18,7 @@
   </a>
   <br/>
   <a href="https://jeraidi.dev">
-    <img src="https://img.shields.io/badge/Portfolio-jeraidi.dev-ecf39e?style=for-the-badge&logo=vercel&logoColor=0d1f12&labelColor=0d1f12" />
+    <img src="https://img.shields.io/badge/Portfolio-jeraidi.dev-ecf39e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <br/>
   <a href="mailto:yassir.jeraidi@gmail.com">
